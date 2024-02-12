@@ -1,0 +1,28 @@
+
+.btn{
+   width: 200px;
+   height: 100px;
+   background-color: rgb(103, 96, 96);
+   position: absolute;
+   border-radius: 5px;
+   border: 1px solid;
+}
+.glow{
+   background-color: steelblue;
+   width: 50px; 
+   border-radius: 20px;
+   border: 2px solid;
+   position: relative;
+   margin-top: 20px;
+   text-align: center;
+   height: 30px;
+}
+.go{
+   /* padding-left: 50px; */
+   right: -145px;
+   transition: 1s;
+   border-radius: 20px;
+   border: 2px solid;
+   background-color: #ccc;
+}
+
